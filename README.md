@@ -1,11 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [![Vue 3](https://img.shields.io/badge/Vue-3-brightgreen)](http://google.com "Vue 3.x")
-- 🌱 I’m currently learning ![alt text](https://aleen42.github.io/badges/src/node.svg "NodeJS")
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with 
-- 💬 Ask me about ...
-- 📫 How to reach me: ![](https://aleen42.github.io/badges/src/twitter.svg)
+- 🔭 I’m currently working with Python.
+- 🌱 I’m currently learning Tkinter.
+
 <!-- 😄 Pronouns: ... --->
 <!-- ⚡ Fun fact: ... --->
 
